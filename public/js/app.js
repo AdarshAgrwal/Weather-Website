@@ -1,6 +1,3 @@
-console.log('Client side Js file is loaded');
-
-
 const search = document.querySelector('input')
 const message1 = document.querySelector('#error')
 const message2 = document.querySelector('#data')
